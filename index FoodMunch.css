@@ -1,0 +1,119 @@
+.container{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 20px;
+}
+.head1{
+    color: blue;
+}
+.head2{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 1000px; 
+}
+.head3{
+    padding: 10px;
+}
+.head4{
+    padding: 10px;
+}
+#container2{
+    display: inline-block;
+    width: 100%;
+    height: 700px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.container3{
+    display: inline-block;
+    width: 100%;
+    height: 700px;
+    padding-bottom: 20px; 
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.child1{
+    display: inline-block;
+    width: 500px;
+    height: 650px;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-bottom: 20px; 
+ 
+}
+#About {
+    padding-left: 150px;
+    color: blueviolet;
+}
+#about2{
+    padding-left: 170px;
+    color: darkgoldenrod;
+}
+.child2{
+    display: inline-block;
+    width: 500px;
+    height: 450px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 50px;
+}
+.container4{
+    display: inline-block;
+    width: 100%;
+    height: 700px;
+
+}
+#Menu{
+    color: brown;
+    padding-left: 150px;
+}
+.menu1{
+    display: inline-block;
+    padding: 20px;
+    width: 500px;
+    height: 610px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+.menu2{
+    display: inline-block;
+    width: 550px;
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 650px ;
+}
+.container5{
+    display: inline-block;
+    width: 90%;
+    height: 700px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 100px;
+}
+#Contact{
+    color: darkslateblue;
+
+}
+#contact2{
+    color: lightseagreen;
+}
+.container6{
+    height: 120px;
+    width: 100%;
+    background-color: #f1f1f1;
+}
+#top{
+    margin-left: 700px;
+}
+#footer{
+    padding-top: 35px;
+    margin-left: 670px;
+}
+#footer2{
+    padding-top: 5px;
+    margin-left: 700px;
+}
